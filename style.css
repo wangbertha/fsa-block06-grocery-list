@@ -1,0 +1,32 @@
+body * {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grocery-list-heading {
+    color: #00b6db;
+    text-align: center;
+}
+
+.type-heading {
+    background-color: #fff0d8;
+    border: 1px solid #000;
+    padding: 5px 0;
+    margin: 10px;
+    text-transform: uppercase;
+}
+
+.category-heading {
+    text-transform: uppercase;
+}
+
+.category {
+    background-color: #d6d6d6;
+    padding: 10px;
+    margin: 10px;
+}
+
+.type-img {
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 10px;
+}
